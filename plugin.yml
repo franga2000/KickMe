@@ -1,0 +1,8 @@
+name: KickMe
+author: franga2000
+version: 1
+description: Allows the player to kick themselves
+main: me.franga2000.KickMe.Main
+commands:
+    kickme:
+        description: Kicks the player that ran it

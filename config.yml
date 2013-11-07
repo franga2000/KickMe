@@ -1,0 +1,6 @@
+#KickMe Config
+# $$user$$ is replaced with the player's username
+#Message, shown to the player
+kickMsg: kickmsg z internal configa
+#Message shown to the server
+kickBc: kickbc iz internal configa
